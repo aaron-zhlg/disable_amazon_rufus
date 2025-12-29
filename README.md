@@ -22,3 +22,5 @@ A simple Chrome extension to hide the Amazon Rufus AI assistant panel from your 
    - The extension is now installed.
    - You can pin it to your browser toolbar for easy access.
    - Click the extension icon to toggle Rufus ON or OFF anytime.
+
+<img width="1907" height="697" alt="Image" src="https://github.com/user-attachments/assets/9a5b9c98-435f-4693-abd3-48327808b5ae" />
